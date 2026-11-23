@@ -1,0 +1,1 @@
+{"description":"Node.js wrapper: serves a plain page on PORT and proxies WebSocket to a local xray (VLESS+WS). xray is downloaded only from the official XTLS GitHub release at runtime; UUID comes from an environment variable, never from this repo.","engines":{"node":">=18"},"license":"MIT","main":"index.js","name":"leinode","scripts":{"start":"node index.js"},"version":"1.0.0"}
